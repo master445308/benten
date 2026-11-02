@@ -1,0 +1,6 @@
+{
+  "name": "ElectroNova — Магазин электроники",
+  "description": "Современный интернет-магазин электроники с каталогом новинок, корзиной покупок, оформлением заказов и панелью администратора.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
